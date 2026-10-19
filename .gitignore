@@ -1,0 +1,12 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 发行包走 Releases 上传，不放进仓库
+*.zip
+*.7z
+
+# 编辑器
+.vscode/
+.idea/
