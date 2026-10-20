@@ -6,7 +6,7 @@
 
 `免费使用` · `Windows 免安装` · `本地运行` · `不联网不上传`
 
-**[下载最新版](../../releases/latest)** · [使用手册](docs/使用手册.md) · [常见问题](#常见问题) · [版本记录](CHANGELOG.md)
+**[下载最新版](https://github.com/tuolingyao/AssetScope-Public/releases/latest)** · [使用手册](docs/使用手册.md) · [常见问题](#常见问题) · [版本记录](CHANGELOG.md)
 
 ---
 
@@ -29,7 +29,7 @@ AssetScope 的设计前提是：**静默错位比报错危险得多**。所以�
 
 ## 三步开始
 
-1. 下载 [`AssetScope-v1.0.0-win64.zip`](../../releases/latest)（约 40 MB）
+1. 下载 [`AssetScope-v1.0.0-win64.zip`](https://github.com/tuolingyao/AssetScope-Public/releases/latest)（约 40 MB）
 2. 解压到任意目录
 3. 双击 **`AssetScope.exe`**，浏览器自动打开
 
