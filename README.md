@@ -30,7 +30,7 @@ AssetScope 的做法是**把口径前置到填写环节**：模板里每个字�
 
 ## 三步开始
 
-1. 下载 [`AssetScope-v1.1.0-win64.zip`](https://github.com/tuolingyao/AssetScope-Public/releases/latest)（约 49 MB）
+1. 下载 [`AssetScope-v1.1.1-win64.zip`](https://github.com/tuolingyao/AssetScope-Public/releases/latest)（约 49 MB）
 2. 解压到任意目录
 3. 双击 **`AssetScope.exe`**，浏览器自动打开
 
